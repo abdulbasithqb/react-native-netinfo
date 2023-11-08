@@ -62,4 +62,3 @@ You can report issues on our [bug tracker](https://github.com/react-native-commu
 ## License
 
 By contributing to React Native NetInfo, you agree that your contributions will be licensed under the **MIT** license.
-Test cahnge - local
